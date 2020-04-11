@@ -59,7 +59,7 @@ public abstract class CaNhan {
         this.sdt = sdt;
     }
     //Phuong thuc truu tuong
-    public abstract String hienThiTT();
+    public abstract void hienThiTT();
     //
     
 }
